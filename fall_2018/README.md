@@ -1,4 +1,4 @@
-There is a folder called mystudy
+There is a file called collegiate-store-study(outside the rcos-status-updates)
 which record what I have learned and what I have practiced 
 during this semester. There are several codes and notes for what I have learned 
 It is most about the php but for the new learner and not so
