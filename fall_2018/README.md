@@ -1,6 +1,6 @@
-There is a folder called mystudy<\br>
+There is a folder called mystudy
 which record what I have learned and what I have practiced 
-during this semester. 
+during this semester. There are several codes and notes for what I have learned 
 It is most about the php but for the new learner and not so
 familiar with RCOS and our project- I've learned along time 
 for the front about html and css
